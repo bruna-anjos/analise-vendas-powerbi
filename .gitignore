@@ -1,0 +1,14 @@
+# Arquivos de dados
+*.xlsx
+*.csv
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Cache do Power BI
+*.pbit
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
