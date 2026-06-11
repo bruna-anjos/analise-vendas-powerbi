@@ -22,11 +22,14 @@ Projeto desenvolvido no Power BI para análise de vendas, faturamento, clientes 
 - Excel
 
   ## Dashboard Geral
-![Dashboard Geral](imagens/dashboard-geral.png)
+<img width="880" height="479" alt="Dashboard Geral" src="https://github.com/user-attachments/assets/86183aac-9e12-4b03-9bb3-4c2a70efac8c" />
+
  ## Vendas Detalhadas
-![Vendas Detalhadas](imagens/vendas-detalhadas.png)
+<img width="861" height="471" alt="Vendas Detalhado" src="https://github.com/user-attachments/assets/6917fbb9-a4cf-4f97-96ad-d509f20a22a2" />
+
 ## Devoluções
-![Devoluções](imagens/devolucoes.png)
+<img width="861" height="482" alt="Devoluções" src="https://github.com/user-attachments/assets/1a6570dc-afd3-4964-9eaa-20b8c82858e6" />
+
 
  
 
